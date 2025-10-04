@@ -33,7 +33,7 @@ This application uses a machine-learning model trained on the public [Kaggle Med
 ### Installation
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/no-show-predictor.git
+git clone https://github.com/rogerpoirierIII/no-show-predictor.git
 cd no-show-predictor
 
 # 2. (Optional) Create a virtual environment
